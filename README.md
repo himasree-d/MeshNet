@@ -158,7 +158,7 @@ The app requests at runtime:
 
 The web/PWA version is deployed on GitHub Pages:
 
-**[https://t-an-droid.github.io/MeshNet](https://himasree-d.github.io/MeshNet)**
+**[https://himasree-d.github.io/MeshNet](https://himasree-d.github.io/MeshNet)**
 
 
 Once visited, the service worker caches the full app. It loads and runs completely offline on subsequent visits.
